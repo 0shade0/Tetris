@@ -1,0 +1,150 @@
+# depslib dependency file v1.0
+1557738294 source:c:\objektno programiranje\dz take 2\game.cpp
+	"game.h"
+	<iostream>
+	<chrono>
+	<cmath>
+
+1557528368 c:\objektno programiranje\dz take 2\game.h
+	<SFML/Graphics.hpp>
+	<vector>
+	<memory>
+	<random>
+	"ball.h"
+
+1557697929 c:\objektno programiranje\dz take 2\ball.h
+	<SFML/Graphics.hpp>
+
+1557528368 source:c:\objektno programiranje\dz take 2\main.cpp
+	<SFML/Graphics.hpp>
+	"game.h"
+	<iostream>
+
+1557738985 source:c:\objektno programiranje\dz take 2\ball.cpp
+	"game.h"
+	<iostream>
+
+1558869263 source:c:\objektnoprogramiranje\tetris 2\game.cpp
+	"game.h"
+	"playstate.h"
+	<iostream>
+
+1558862911 c:\objektnoprogramiranje\tetris 2\game.h
+	<SFML/Graphics.hpp>
+	"gamestate.h"
+
+1558866227 c:\objektnoprogramiranje\tetris 2\gamestate.h
+	<SFML/Graphics.hpp>
+
+1558862911 c:\objektnoprogramiranje\tetris 2\playstate.h
+	<SFML/Window/Event.hpp>
+	"gamestate.h"
+	"board.h"
+	"score.h"
+
+1558864668 c:\objektnoprogramiranje\tetris 2\board.h
+	<SFML/Graphics.hpp>
+	"tetrimino.h"
+	<random>
+
+1558004770 c:\objektnoprogramiranje\tetris 2\tetrimino.h
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Clock.hpp>
+
+1558868333 c:\objektnoprogramiranje\tetris 2\score.h
+	<SFML/Graphics.hpp>
+
+1558869201 source:c:\objektnoprogramiranje\tetris 2\gamestate.cpp
+	"gamestate.h"
+	"game.h"
+	<iostream>
+	<string>
+	<math.h>
+	<iomanip>
+	<sstream>
+
+1558547682 source:c:\objektnoprogramiranje\tetris 2\main.cpp
+	"game.h"
+
+1558868333 source:c:\objektnoprogramiranje\tetris 2\playstate.cpp
+	"playstate.h"
+	"game.h"
+	<iostream>
+
+1557944274 source:c:\objektnoprogramiranje\tetris 2\tetrimino.cpp
+	"tetrimino.h"
+
+1558868333 source:c:\objektnoprogramiranje\tetris 2\board.cpp
+	"board.h"
+	"tetrimino.h"
+	<iostream>
+	<chrono>
+
+1558868333 source:c:\objektnoprogramiranje\tetris 2\score.cpp
+	"score.h"
+	<cstdlib>
+	<iostream>
+	<string>
+
+1558869369 source:c:\tetris\data\board.cpp
+	"board.h"
+	"tetrimino.h"
+	<iostream>
+	<chrono>
+
+1558864668 c:\tetris\data\board.h
+	<SFML/Graphics.hpp>
+	"tetrimino.h"
+	<random>
+
+1558004770 c:\tetris\data\tetrimino.h
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Clock.hpp>
+
+1558869263 source:c:\tetris\data\game.cpp
+	"game.h"
+	"playstate.h"
+	<iostream>
+
+1558862911 c:\tetris\data\game.h
+	<SFML/Graphics.hpp>
+	"gamestate.h"
+
+1558866227 c:\tetris\data\gamestate.h
+	<SFML/Graphics.hpp>
+
+1558862911 c:\tetris\data\playstate.h
+	<SFML/Window/Event.hpp>
+	"gamestate.h"
+	"board.h"
+	"score.h"
+
+1558868333 c:\tetris\data\score.h
+	<SFML/Graphics.hpp>
+
+1558547682 source:c:\tetris\data\main.cpp
+	"game.h"
+
+1558868333 source:c:\tetris\data\playstate.cpp
+	"playstate.h"
+	"game.h"
+	<iostream>
+
+1558868333 source:c:\tetris\data\score.cpp
+	"score.h"
+	<cstdlib>
+	<iostream>
+	<string>
+
+1557944274 source:c:\tetris\data\tetrimino.cpp
+	"tetrimino.h"
+
+1558875064 source:c:\tetris\data\gamestate.cpp
+	"gamestate.h"
+	"game.h"
+	<iostream>
+	<string>
+	<math.h>
+	<iomanip>
+	<sstream>
+
